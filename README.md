@@ -10,7 +10,6 @@ Debian 10 (only tested with 64bit).
 Installation instructions:
 
 Download the bash script:
-wget https://gitlab.com/worldofmatthew/automatic-tor-nginx/raw/master/tornginx.sh
 
 set the correct permissions:
 chmod +x tornginx.sh
