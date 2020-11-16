@@ -3,11 +3,10 @@
 # Automatic NGINX and TOR Hidden Service Installer 1.0
 echo "WARNING: THIS SCRIPT CAN ONLY BE USED WITH DEBIAN 10. DO NOT USE WITH ANY OTHER OS."
 echo "This installer should on be used with clean install of Debian 10 as it wipes existing Tor and NGiNX settings"
-echo "Welcome to the worldofmatthew.com automatic Nginx hidden service installer."
 echo "By using this installer you agree not to use this installer to:"
 echo "create websites with child porn or terroist content."
 echo "create websites with content that is illegal were you live"
-echo "Claim in anyway that worldofmatthew.com is promoting any websites that this tool assists with getting set up with TOR."
+echo "claim that I endorse or promote any site created with this script."
 echo -n "Do you agree with this? [yes or no]: "
 read yno
 case $yno in
