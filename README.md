@@ -12,7 +12,7 @@ Installation instructions:
 Download the bash script:
 
 set the correct permissions:
-chmod +x tornginx.sh
+chmod +x tor.sh
 
 Run the bash script:
 ./tornginx.sh
